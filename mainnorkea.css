@@ -41,7 +41,8 @@ a:visited{
 }
 a:hover{
   color:#A52A2A;
-  border-bottom:3px solid #C7009D;
+  border-bottom:3px solid #8FBC8F;
+  border-top: 4px solid white;
   padding:0 0 2px;
 }
 body{ 
